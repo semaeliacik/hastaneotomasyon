@@ -1,0 +1,11 @@
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\bin\Debug\hastaneotomasyon.exe.config
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\bin\Debug\hastaneotomasyon.exe
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\bin\Debug\hastaneotomasyon.pdb
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.csprojAssemblyReference.cache
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.Form1.resources
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.Properties.Resources.resources
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.csproj.GenerateResource.cache
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.exe
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.pdb
+C:\Users\semas\OneDrive\Masaüstü\hastaneotomasyon\hastaneotomasyon\obj\Debug\hastaneotomasyon.panel.resources
